@@ -1,0 +1,4 @@
+export (k_hetang,k_ls,k_may,k_ml,preemption.fit,preemption.t,raplot,raplot.paired)
+importFrom("stats", "AIC", "coefficients", "lm", "logLik", "pt", "qnorm", "qt", "uniroot", "vcov")
+importFrom("graphics", "legend", "par", "points", "plot", "segments")
+

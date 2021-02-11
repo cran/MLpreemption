@@ -1,0 +1,17 @@
+citHeader("To cite MLpreempt in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Maximum likelihood estimation of the geometric niche preemption model",
+  author       = personList(as.person("Jan Graffelman")),
+  journal      = "bioRxiv preprint",
+  year         = "2021",
+  volume       = "",
+  number       = "",
+  pages        = "1--25",
+  url          = "https://doi.org/10.1101/2021.01.27.428381",
+  textVersion  = paste("Jan Graffelman (2021).",
+        "Maximum likelihood estimation of the geometric niche preemption model",
+        "bioRxiv preprint",
+        "URL https://doi.org/10.1101/2021.01.27.428381")
+         )
+
